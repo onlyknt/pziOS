@@ -58,7 +58,7 @@ step exists.
 
 ## Supported Devices
 
-- **iPhone 12 Pro or later.**
+- **iPhone 12 Pro/iPhone 13 Pro or later.**
 - **iPad Pro A12z or later.**
 - **iPad Air M1 or later.**
 - **iPad Mini A17 Pro or later.**
