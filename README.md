@@ -7,9 +7,9 @@
   &nbsp;
   <a href="https://github.com/onlyknt/pziOS/releases"><img src="https://img.shields.io/github/v/release/onlyknt/pziOS?include_prereleases&label=Release&style=for-the-badge&color=brightgreen&labelColor=111111" alt="Latest release"></a>
   &nbsp;
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL3-yellow?style=for-the-badge&labelColor=111111" alt="MIT licence"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL3-yellow?style=for-the-badge&labelColor=111111" alt="GPL3 licence"></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/iOS-26%2B-blue?style=for-the-badge&labelColor=111111" alt="iOS 26 or later">
+  <img src="https://img.shields.io/badge/iOS-17%2B-blue?style=for-the-badge&labelColor=111111" alt="iOS 26 or later">
 </p>
 
 pziOS runs Project Zomboid (Build 42) on an iPhone or iPad. It is a launcher
